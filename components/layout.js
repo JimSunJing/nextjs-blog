@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Joy Stone";
-export const siteTitle = "🪄💫";
+export const siteTitle = "🪄JoyStone💫";
 
 // note: home prop is defined in index.js
 export default function Layout({ children, home }) {
